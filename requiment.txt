@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_migrate
+pymysql
+apscheduler
+flask-apscheduler
+playwright
+python_dotenv
+beautifulsoup4
+
